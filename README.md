@@ -5,13 +5,21 @@ BAMOLSHOP is a **terminal-based online shop simulation** written in **C**. It al
 ## 📂 Project Structure
 
 📁 BAMOLSHOP
+
 ┣ 📜 BAMOLSHOP.c # Main source code
+
 ┣ 📜 BAMOLSHOP # Compiled executable
+
 ┣ 📜 akunFile.txt # Stores user account details
+
 ┣ 📜 backup.txt # Backup file for data recovery
+
 ┣ 📜 produkFile.txt # Stores product details
+
 ┣ 📜 strukPembelian-*.txt # Receipt files for transactions
+
 ┗ 📜 README.md # Project documentation
+
 
 
 ## 📌 Features
